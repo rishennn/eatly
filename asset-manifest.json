@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/eatly/static/css/main.c2e271e1.css",
+    "main.js": "/eatly/static/js/main.eda94006.js",
+    "static/media/User.svg": "/eatly/static/media/User.3df4e3ca515e3050b1f3b5a8bd838c22.svg",
+    "static/media/dish3.png": "/eatly/static/media/dish3.706aef54cf4836547eb0.png",
+    "static/media/banner-bg.png": "/eatly/static/media/banner-bg.5551cef4ee60c551834d.png",
+    "static/media/sale-bg.jpg": "/eatly/static/media/sale-bg.67388b8df557ca4d84db.jpg",
+    "static/media/Hotdog.svg": "/eatly/static/media/Hotdog.9eff51aa53663909f02e93a7a40fbee9.svg",
+    "static/media/Doughnut.svg": "/eatly/static/media/Doughnut.fc04d957a9c908f0ad8c62abfcdba5ff.svg",
+    "static/media/Pizza.svg": "/eatly/static/media/Pizza.a1f3c8ea21084caf209ef3e2d7872251.svg",
+    "static/media/Icecream.svg": "/eatly/static/media/Icecream.e7526d68dff7830403d4a8a12993ca2c.svg",
+    "static/media/BasicPrice.svg": "/eatly/static/media/BasicPrice.1bc4175e3092b85186f477588460de7f.svg",
+    "static/media/ProPrice.svg": "/eatly/static/media/ProPrice.3f0bbd7a9030aaffad1c6f8dff0eaad2.svg",
+    "static/media/Logo.svg": "/eatly/static/media/Logo.d3f65d162318d84d91646d72e3bb44fc.svg",
+    "static/media/Heart.svg": "/eatly/static/media/Heart.765b1b8fbb3c93556dc73bb44b84e621.svg",
+    "static/media/Star.svg": "/eatly/static/media/Star.bb694f64b4f95270533a2ac604752f7b.svg",
+    "static/media/twitter.svg": "/eatly/static/media/twitter.ef9f65bfc6d28d82b921fafd607e411e.svg",
+    "static/media/burgerClose.svg": "/eatly/static/media/burgerClose.2111343615afec3ca3fdb25bbbe622a2.svg",
+    "static/media/Cross.svg": "/eatly/static/media/Cross.27bd3bbf6f9a845b94e5613b076d1981.svg",
+    "static/media/apple.svg": "/eatly/static/media/apple.a3d73b339358020a8e5963e89c5c19f5.svg",
+    "static/media/Bookmark.svg": "/eatly/static/media/Bookmark.4274dca5a34c2b25546414e9b4ed71a0.svg",
+    "static/media/instagram.svg": "/eatly/static/media/instagram.d971864f19253a0f0848ba4fef59a9fd.svg",
+    "static/media/linkedIn.svg": "/eatly/static/media/linkedIn.3762c4a82d03b962aca9774707e645f7.svg",
+    "static/media/google.svg": "/eatly/static/media/google.069e748071497c3d8e90de305f8578c1.svg",
+    "static/media/burgerOpen.svg": "/eatly/static/media/burgerOpen.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "static/media/facebook.svg": "/eatly/static/media/facebook.131f92fe187f2eb66b3b5e6bf75bc1e4.svg",
+    "index.html": "/eatly/index.html",
+    "static/media/Plus.svg": "/eatly/static/media/Plus.51618194e75bc5b1f235587e08a8da36.svg",
+    "static/media/Tick.svg": "/eatly/static/media/Tick.2449ad284af4d09e9799165f4b78557b.svg",
+    "main.c2e271e1.css.map": "/eatly/static/css/main.c2e271e1.css.map",
+    "main.eda94006.js.map": "/eatly/static/js/main.eda94006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e271e1.css",
+    "static/js/main.eda94006.js"
+  ]
+}
